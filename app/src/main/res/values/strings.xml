@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab07A Room</string>
+    <string name="hint_name">Tên sản phẩm</string>
+    <string name="hint_price">Giá</string>
+    <string name="hint_quantity">Số lượng tồn kho</string>
+    <string name="add_product">Thêm</string>
+    <string name="delete_newest">Xóa mới nhất</string>
+    <string name="invalid_input">Vui lòng nhập đầy đủ thông tin hợp lệ</string>
+    <string name="empty_products">Chưa có sản phẩm nào</string>
+    <string name="product_row">#%1$d  %2$s  —  %3$,.0f đ  (SL: %4$d)</string>
+</resources>
